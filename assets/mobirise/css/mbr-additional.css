@@ -777,7 +777,7 @@ section.lazy-placeholder:after {
     top: 40%;
   }
   .cid-skD1N8pVos .navbar .navbar-logo img {
-    height: 3rem !important;
+    height: 7rem !important;
   }
   .cid-skD1N8pVos .navbar ul.navbar-nav li {
     margin: auto;
@@ -805,7 +805,7 @@ section.lazy-placeholder:after {
   min-height: 106px;
 }
 .cid-skD1N8pVos .navbar.navbar-short .navbar-logo img {
-  height: 2.5rem !important;
+  height: 7rem !important;
 }
 .cid-skD1N8pVos .navbar.navbar-short .navbar-brand {
   min-height: 60px;
@@ -873,7 +873,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffc658;
+  background-color: #ffffff;
 }
 .cid-skD1N8pVos button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -981,6 +981,7 @@ section.lazy-placeholder:after {
 }
 @media (max-width: 767px) {
   .cid-skD1Q2u9VP .img-col img {
+    margin-top: 3rem;
     right: 0 !important;
   }
   .cid-skD1Q2u9VP .img-col img:last-child {
