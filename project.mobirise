@@ -57,7 +57,7 @@
     "imageResize": true,
     "chatbutton": {},
     "favicon": false,
-    "mbrsiteDomain": "mc9idcmf2e",
+    "mbrsiteDomain": "y4jzedbjna",
     "cssOptimize": false,
     "lazyLoad": false,
     "robotsSwitcher": false,
@@ -69,7 +69,8 @@
     "uniqCompNum": 66,
     "versionPublish": "5.6.13",
     "screenshot": "screenshot.png",
-    "global_header_custom": "<meta name=\"google-site-verification\" content=\"SpamYcTotkQITthkSuE7FiVi4IUpfMYS43fw4bZK3P4\" />"
+    "global_header_custom": "<meta name=\"google-site-verification\" content=\"SpamYcTotkQITthkSuE7FiVi4IUpfMYS43fw4bZK3P4\" />\n\n<!-- Google tag (gtag.js) -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-RVPV6ENP3J\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-RVPV6ENP3J');\n</script>\n\n<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-TWTXM6VR');</script>\n<!-- End Google Tag Manager -->\n\n",
+    "global_after_body": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-TWTXM6VR\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->\n\n\n"
   },
   "pages": {
     "index.html": {
